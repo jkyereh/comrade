@@ -660,7 +660,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- about --*/
 .about {
-    background: #191919;
+    background: #2b2e33;
 }
 h2.heading,h3.heading {
     font-size: 40px;
@@ -1172,6 +1172,11 @@ p.para-agileits-w3layouts span.fa {
     -moz-transition: .5s ease-in;
     -o-transition: .5s ease-in;
     -ms-transition: .5s ease-in;
+}
+
+.flex-footer {
+    display: flex;
+    justify-content: center;
 }
 
 /* map */
